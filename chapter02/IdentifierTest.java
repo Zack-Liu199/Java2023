@@ -29,6 +29,11 @@
 
 说明：大家在定义标识符时，要注意“见名知意”
 */
+class test{
+	static void main(String[]args){
+		
+		}
+		}
 class IdentifierTest{
 	public static void main(String[] args){
 		

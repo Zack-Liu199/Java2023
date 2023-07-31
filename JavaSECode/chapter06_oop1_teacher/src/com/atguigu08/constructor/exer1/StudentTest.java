@@ -16,5 +16,7 @@ public class StudentTest {
 
         Student s2 = new Student("奶茶妹妹",28,"清华大学");
         System.out.println(s2.getInfo());
+
+        Student s3 = new Student("s1",2);
     }
 }
